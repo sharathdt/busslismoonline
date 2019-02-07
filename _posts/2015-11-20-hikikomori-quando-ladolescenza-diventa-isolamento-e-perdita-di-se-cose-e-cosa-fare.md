@@ -1,0 +1,80 @@
+---
+id: 461
+title: 'Hikikomori: quando l&#8217;adolescenza diventa isolamento e perdita di Sé. Cos&#8217;è e Cosa fare.'
+date: 2015-11-20T15:44:51+00:00
+author: Mariarosaria Imbimbo
+layout: post
+guid: http://www.bullismoonline.it/?p=461
+permalink: /hikikomori-quando-ladolescenza-diventa-isolamento-e-perdita-di-se-cose-e-cosa-fare/
+friskamax_page_subtitle:
+  - ""
+friskamax_page_title_bg:
+  - "0"
+friskamax_page_title_op:
+  - upload
+friskamax_review_titles:
+  - 'a:1:{i:0;s:10:"New Title ";}'
+friskamax_review_scores:
+  - 'a:1:{i:0;d:0;}'
+friskamax_review_total:
+  - "0"
+friskamax_review_summary:
+  - ""
+friskamax_review_advanced:
+  - "0"
+friskamax_review_title:
+  - Review Scores
+friskamax_review_type:
+  - bar
+friskamax_review_score_text:
+  - ""
+friskamax_review_enable_categories:
+  - "0"
+friskamax_review_enable_user_rating:
+  - "0"
+friskamax_sidebar:
+  - ""
+warta_post_views_count:
+  - "5416"
+ssb_post_sites:
+  - 'a:6:{s:6:"reddit";i:0;s:5:"email";i:5;s:2:"fb";i:8;s:7:"twitter";i:4;s:5:"gplus";i:4;s:9:"pinterest";i:0;}'
+social_share_button_share_count:
+  - 'a:6:{s:6:"reddit";i:0;s:5:"email";i:5;s:8:"facebook";i:8;s:7:"twitter";i:4;s:11:"google-plus";i:4;s:9:"pinterest";i:0;}'
+image: /wp-content/uploads/2015/11/hikikomori2.jpg
+categories:
+  - Cyberbullismo ed Educazione Digitale per i Genitori
+  - Statistiche sul Cyberbullismo
+tags:
+  - adolescenti ed emozioni
+  - bullismo
+  - che cosa significa
+  - cyberbullismo
+  - dipendenza da Internet
+  - disagio adolescenziale
+  - gestire le emozioni
+  - hikikomori
+  - identità digitale
+---
+L'adolescenza coincide con un periodo critico dell'essere umano che comporta sofferenza sociale ed esistenziale. Tale malessere può sfociare in varie forme di ritiro sociale giovanile, emerse in vari paesi con simili condizioni socioeconomiche,<!--more--> tra cui un sistema rigido educativo, irregolari opportunità di lavoro, un ribasso nella mobilità sociale giovanile, il <a href="http://www.bullismoonline.it/relazionalita-digitale-tra-soddisfazioni-e-frustrazioni/" target="_blank" rel="noopener">diffuso uso di Internet</a> e dei giochi online.
+<a href="http://anp.sagepub.com/content/49/7/595.abstract" target="_blank" rel="noopener">Il ritiro sociale giovanile assume diversi nomi a seconda della cultura.</a> In Giappone nel 1998 Saito coniò il termine <strong>Hikikomori</strong> – letteralmente "<em>ritiro in casa</em>" – per riferirsi a <strong>ragazzi e giovani adulti che preferiscono rifugiarsi nei manga o in Internet quale luogo alternativo alla realtà e si rinchiudono in casa per lunghi periodi</strong>. Nel Regno Unito è in uso il termine <strong>NEET</strong> (Not in Education, Employment, or Training) per quei giovani dediti a nulla, né a una formazione teorica, né professionale e neppure esperienziale. Gli stessi giovani che ad Hong Kong sono definiti <strong>NEY</strong> (Non-Engaged Youth). Giovani che preferiscono restare protetti e al sicuro sotto il tetto dei genitori, piuttosto che svincolarsi dal nucleo familiare e ricercare la propria autonomia. Sono gli "<strong>adultolescent</strong>": termine in voga negli Stati Uniti per descrivere giovani, non più così giovani, che preferiscono procrastinare il periodo dell'adolescenza.
+
+In comune, questi fenomeni hanno l'<strong>autoreclusione</strong>, il <strong>ritiro sociale</strong>, l'<strong>isolamento</strong>. Tra questi, l'<a href="http://ijp.sagepub.com/content/35/2/191.short" target="_blank" rel="noopener">Hikikomori</a> è stato associato ad una delle caratteristiche comportamentali di diversi disturbi psichiatrici, tra cui la schizofrenia, il disturbo depressivo maggiore, il disturbo schizoide di personalità, il disturbo evitante di personalità. Tuttavia, ricercatori e clinici non hanno raggiunto un consenso sulla comorbilità tra disturbi psichiatrici e ritiro sociale giovanile.
+
+Di certo, <strong>l'Hikikomori è il prodotto di una serie di fattori socioculturali e comportamentali</strong>, che variano da persona a persona. Eventi normativi e/o paranormativi, quali possono essere la morte di un familiare, una famiglia separata, una famiglia nucleare senza il supporto della famiglia estesa, dinamiche disfunzionali tra i genitori e tra genitori e figli (ad esempio, famiglie invischiate e/o iperprotettive, attaccamento insicuro, dipendenza dalla madre, assenza del padre). Tra i fattori sociali sono spesso citati il <strong>bullismo</strong>, l'<strong>isolamento sociale</strong> e il <strong>rifiuto dai pari</strong>, che alimentano nei ragazzi risentimento e diffidenza dei coetanei. Fra gli Hikikomori non troviamo solo adolescenti che hanno subito <a href="http://www.bullismoonline.it/cyberbulllismo-e-bullismo-tradizionale-mass-media/" target="_blank" rel="noopener">bullismo scolastico</a>, ma anche giovani di età inferiore ai 30 anni, lavoratori che presentano difficoltà sul luogo di lavoro, interrompendolo e ritirandosi anch'essi nella propria stanza.
+Così, piano piano gli Hikikomori si estraneano dalla società prima, dalla famiglia poi; si rintanano nella propria stanza, da cui non escono mai consumando lì anche i pasti. Preferiscono trascorrere le loro notti a guardare la televisione o a giocare con i videogames, abbandonando ogni contatto diretto col mondo sociale, per ritirarsi in una realtà virtuale dove si evita la presenza dell'altro <i>differente </i>da sé. Ancora una volta <strong>la Rete rappresenterebbe quindi lo strumento per sfuggire alle difficoltà familiari e la mancanza di controllo e di autorità abbandonerebbe il soggetto all'uso senza limiti di tale mezzo</strong>.
+Al contrario di chi si crea un'<a href="http://www.bullismoonline.it/effetto-proteus-rappresentazione-di-se-formazione-identita/" target="_blank" rel="noopener">identità virtuale</a> contenuta in un altro Corpo e proiettata fuori di Sé all'interno dello schermo, i giovani Hikikomori cercano di annullare il proprio Corpo, per affermare la propria presenza nel mondo. Proprio in quest'età in cui l'Apparire determina l'Essere del Soggetto, essi tendono a scomparire, sottraendosi agli occhi degli altri, rompendo gli schemi convenzionali con un silenzio assordante che denuncia la loro assenza e mettendo in pratica una vera e propria fuga dall'<em>E</em><i>ssere se stesso autentico</i>. Questi giovani si rinchiudono nella propria stanza per proteggersi da quell'<i>altro</i> che il mondo gli restituirebbe come riflesso proprio e quindi come presenza nel mondo stesso, e contemporaneamente per cercare di dare un senso alla precaria vita, propria e altrui, attraverso un rito soffocante, ma necessario ed inevitabile.
+
+Come in ogni situazione di disagio, <strong>risulta essere assente negli Hikikomori la consapevolezza di un comportamento anomalo</strong> e, di conseguenza, il desiderio di uscire da questo stato di autoreclusione. Anche gli ex-Hikikomori <strong>non riescono a definire il motivo per cui hanno iniziato il loro ritiro sociale</strong>, riescono a percepire soltanto il bisogno di staccarsi dal mondo per riposare. In realtà, analizzando meglio i loro conflitti, essi si sentivano in colpa per non essere stati attivi socialmente e di aver rovinato tutti i legami importanti. <strong>Vivono in uno stato di profonda solitudine senza accettare le proprie responsabilità in merito a questo taglio netto col resto del mondo. Preferiscono attribuire agli altri la <i>colpa</i> del loro isolamento, diretta conseguenza del loro sentirsi incompresi e dimenticati dal mondo.</strong> Si può addirittura ipotizzare che gli Hikikomori vogliano salvare le proprie <a href="http://www.bullismoonline.it/generazione-multitasking-adolescenti-tra-tecnologia-ed-emozioni/" target="_blank" rel="noopener">emozioni</a>, perdendo però in tal modo la propria emotività. In genere essi sono <i>ragazzi che non si esprimono, ma che poi scoppiano in emozioni molto violente </i>(Sagliocco G., "<i>Hikikomori e adolescenza: fenomenologia dell'autoreclusione</i>", 2011). <strong>Gli Hikikomori sarebbero dunque degli adolescenti in profondo cambiamento</strong>, che talvolta nonostante riescano ad uscire dall'inferno in cui erano sprofondati, ci ritornano, si rinchiudono, adottando dopo qualche mese gli stessi comportamenti di chiusura verso di Sé e verso l'altro.
+
+<strong>Spesso il nucleo familiare tollera l'autoreclusione del ragazzo, agevolandolo implicitamente o esplicitamente nel suo rintanarsi in casa. Si cela dietro la protezione da una società pericolosa, perché incapace di sostenere il peso della vergogna.</strong> Ciò provoca lunghi ritardi nella richiesta d'aiuto, quasi sempre espressa come necessità di annullare i mondi virtuali in cui si rifugia l'adolescente.
+
+&nbsp;
+<h2 style="text-align: center;">Come aiutare questi giovani ad uscire dal loro isolamento?</h2>
+In primo luogo, è difficile individuarli, e qualora qualcuno facesse una richiesta d'aiuto per loro, studi attestano l'inefficacia degli approcci tradizionali. Nelle visite domiciliari rifutano il contatto fisico, rendendo altamente improbabile la costruzione di un'alleanza terapeutica. Pertanto, risulta necessario l'<strong>uso dei mezzi informatici</strong> da parte dei professionisti, per comunicare con loro e per stabilire interventi psico-socio-riabilitativi al fine di migliorare le loro capacità di problem solving e le abilità sociali. Offrire loro un servizio di consulenza e counselling online attraverso Facebook, WhatsApp, Twitter, potrebbe rappresentare per loro un canale sicuro in cui poter sperimentare ed acquisire nuovamente fiducia negli altri.
+<h2 style="text-align: center;"><strong>Obiettivo è riportarli nel mondo reale a contatto diretto con gli altri.</strong></h2>
+In questo la <strong>pet terapy</strong> potrebbe giocare un ruolo altrettanto innovativo ed importante quanto le nuove tecnologie. Gli animali potrebbero rappresentare un impegno sociale di questi giovani e rappresentare il mezzo per la loro reintegrazione nel mondo.
+
+Inoltre, dal momento che la famiglia e la scuola svolgono un ruolo significativo nello sviluppo dei comportameti di ritiro sociale e che essi risultino centrali per il supporto sociale e lo sviluppo emotivo dei ragazzi, <strong>risulta necessario il coinvolgimento di genitori e insegnanti nello sviluppo di programmi di prevenzione</strong>. Purtroppo, però, siamo ancora lontani dall'attuare programmi utili a prevenire il ritiro sociale giovanile.
+
+Per concludere, vorrei citare la prof.ssa C.Ricci in "<i>Hikikomori e adolescenza: fenomenologia dell'autoreclusione</i>", in quanto mi trovo in linea con il suo pensiero.
+<blockquote>L'Hikikomori non credo sia una cosa negativa, se i terapeuti riusciranno a far capire che è un momento di creazione del Sé, un momento importante di cambiamento, potrebbe esserci un'evoluzione positiva per l'individuo, ossia la rinascita dopo la crisi. Io voglio immaginare questo.</blockquote>
