@@ -1,13 +1,13 @@
 # Site
 # buxec jekyll serve --watch --limit_posts 0
 # https://sharathdt.github.io/busslismoonline/
-name: "Mediumish"
+name: "Bullismoonline"
 description: "Jekyll Template for Blogging"
 meta_description: "Jekyll template, Medium styled, free for bloggers."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 #baseurl: /busslismoonline
-google_analytics: 'UA-46278016-1'
+google_analytics: 'UA-54137021-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
@@ -17,10 +17,11 @@ authors:
     name: Ivan Ferrero
     display_name: Dr Ivan Ferrero
     gravatar: /assets/images/Ivan-Ferrero-Avatar.jpg
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    email: ivanferrero1975@outlook.com
+    web: www.bullismoonline.it
+    twitter: https://twitter.com/IvanPsy
+    facebook: https://www.facebook.com/ivanferreropsicologo
+    description: "CyberPsychologist at New Media Psychologist - Teenagers and New Media"
   john:
     name: John
     display_name: John
