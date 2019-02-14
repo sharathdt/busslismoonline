@@ -652,3 +652,11 @@ License: https://www.wowthemes.net/freebies-license/
  .card .img-fluid {
     width:100%;
 }
+
+/* Custom Style */
+
+.sitetitle {
+  font-weight: bold;
+  font-size: 2rem;
+  margin-bottom: 0rem;
+}
