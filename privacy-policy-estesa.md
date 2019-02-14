@@ -21,6 +21,7 @@ friskamax_sidebar:
   - ""
 fsmpb_main:
   - ""
+permalink: /privacy-policy/
 ---
 &nbsp;
 <div>
