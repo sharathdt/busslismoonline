@@ -6,44 +6,6 @@ author: Dr Ivan Ferrero
 layout: post
 guid: http://www.bullismoonline.it/?p=92
 permalink: /bullismo-online-statistiche-dal-mondo-infografica/
-layout_key:
-  - ""
-post_slider_check_key:
-  - "0"
-warta_post_views_count:
-  - "5583"
-ssb_post_sites:
-  - 'a:6:{s:6:"reddit";i:0;s:5:"email";i:1;s:2:"fb";i:1;s:7:"twitter";i:0;s:5:"gplus";i:2;s:9:"pinterest";i:0;}'
-friskamax_page_subtitle:
-  - ""
-friskamax_page_title_bg:
-  - "0"
-friskamax_page_title_op:
-  - upload
-friskamax_review_titles:
-  - 'a:1:{i:0;s:10:"New Title ";}'
-friskamax_review_scores:
-  - 'a:1:{i:0;d:0;}'
-friskamax_review_total:
-  - "0"
-friskamax_review_summary:
-  - ""
-friskamax_review_advanced:
-  - "0"
-friskamax_review_title:
-  - Review Scores
-friskamax_review_type:
-  - bar
-friskamax_review_score_text:
-  - ""
-friskamax_review_enable_categories:
-  - "0"
-friskamax_review_enable_user_rating:
-  - "0"
-friskamax_sidebar:
-  - ""
-social_share_button_share_count:
-  - 'a:6:{s:6:"reddit";i:0;s:5:"email";i:1;s:8:"facebook";i:1;s:7:"twitter";i:0;s:11:"google-plus";i:2;s:9:"pinterest";i:0;}'
 image: /wp-content/uploads/2014/09/Cyberbullismo-Anatomia-thumb.png
 categories:
   - Statistiche sul Cyberbullismo

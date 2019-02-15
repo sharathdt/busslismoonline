@@ -6,38 +6,6 @@ author: Dr Ivan Ferrero
 layout: post
 guid: http://www.bullismoonline.it/?p=252
 permalink: /cyberbullismo-adolescenti-convergenza-disagio-conferenza/
-expresscurate_sitemap_post_configure_manually:
-  - ""
-friskamax_page_subtitle:
-  - "Davvero il Cyberbullismo è come ci viene presentato? Cosa c'è dietro?"
-friskamax_page_title_bg:
-  - "0"
-friskamax_page_title_op:
-  - upload
-friskamax_review_titles:
-  - 'a:1:{i:0;s:10:"New Title ";}'
-friskamax_review_scores:
-  - 'a:1:{i:0;d:0;}'
-friskamax_review_total:
-  - "0"
-friskamax_review_summary:
-  - ""
-friskamax_review_advanced:
-  - "0"
-friskamax_review_title:
-  - Review Scores
-friskamax_review_type:
-  - bar
-friskamax_review_score_text:
-  - ""
-friskamax_review_enable_categories:
-  - "0"
-friskamax_review_enable_user_rating:
-  - "0"
-friskamax_sidebar:
-  - ""
-warta_post_views_count:
-  - "3402"
 image: /wp-content/uploads/2015/01/cyber-bullying-.jpg
 categories:
   - Cyberbullismo ed Educazione Digitale per i Genitori

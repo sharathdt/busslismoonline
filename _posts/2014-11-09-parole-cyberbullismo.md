@@ -6,40 +6,6 @@ author: Dr Ivan Ferrero
 layout: post
 guid: http://www.bullismoonline.it/?p=218
 permalink: /parole-cyberbullismo/
-warta_post_views_count:
-  - "4843"
-friskamax_page_subtitle:
-  - ""
-friskamax_page_title_bg:
-  - "0"
-friskamax_page_title_op:
-  - upload
-friskamax_review_titles:
-  - 'a:1:{i:0;s:10:"New Title ";}'
-friskamax_review_scores:
-  - 'a:1:{i:0;d:0;}'
-friskamax_review_total:
-  - "0"
-friskamax_review_summary:
-  - ""
-friskamax_review_advanced:
-  - "0"
-friskamax_review_title:
-  - Review Scores
-friskamax_review_type:
-  - bar
-friskamax_review_score_text:
-  - ""
-friskamax_review_enable_categories:
-  - "0"
-friskamax_review_enable_user_rating:
-  - "0"
-friskamax_sidebar:
-  - ""
-ssb_post_sites:
-  - 'a:6:{s:6:"reddit";i:0;s:5:"email";i:0;s:2:"fb";i:0;s:7:"twitter";i:1;s:5:"gplus";i:0;s:9:"pinterest";i:0;}'
-social_share_button_share_count:
-  - 'a:6:{s:6:"reddit";i:0;s:5:"email";i:0;s:8:"facebook";i:0;s:7:"twitter";i:1;s:11:"google-plus";i:0;s:9:"pinterest";i:0;}'
 image: /wp-content/uploads/2014/11/Cyberbullismo_Parole_110914_031719_PM.jpg
 categories:
   - Cyberbullismo ed Educazione Digitale per i Genitori

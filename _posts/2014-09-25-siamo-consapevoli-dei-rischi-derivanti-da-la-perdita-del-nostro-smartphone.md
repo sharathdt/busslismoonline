@@ -6,44 +6,6 @@ author: Dr Ivan Ferrero
 layout: post
 guid: http://www.bullismoonline.it/?p=183
 permalink: /siamo-consapevoli-dei-rischi-derivanti-da-la-perdita-del-nostro-smartphone/
-layout_key:
-  - ""
-post_slider_check_key:
-  - "0"
-expresscurate_link_0:
-  - http://www.sciencedaily.com/releases/2014/08/140821102356.htm
-is_expresscurate:
-  - "1"
-warta_post_views_count:
-  - "1787"
-friskamax_page_subtitle:
-  - ""
-friskamax_page_title_bg:
-  - "0"
-friskamax_page_title_op:
-  - upload
-friskamax_review_titles:
-  - 'a:1:{i:0;s:10:"New Title ";}'
-friskamax_review_scores:
-  - 'a:1:{i:0;d:0;}'
-friskamax_review_total:
-  - "0"
-friskamax_review_summary:
-  - ""
-friskamax_review_advanced:
-  - "0"
-friskamax_review_title:
-  - Review Scores
-friskamax_review_type:
-  - bar
-friskamax_review_score_text:
-  - ""
-friskamax_review_enable_categories:
-  - "0"
-friskamax_review_enable_user_rating:
-  - "0"
-friskamax_sidebar:
-  - ""
 image: /wp-content/uploads/2014/09/Loss-Smartphone.jpg
 categories:
   - Cyberbullismo ed Educazione Digitale per i Genitori
