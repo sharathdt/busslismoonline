@@ -17,6 +17,7 @@ tags:
   - Featured
   - genitori digitali
   - libri sul cyberbullismo
+featured: true
 ---
 <h1>Insegnare l'Educazione Digitale ai nostri figli attraverso un libro? Missione possibile!</h1>
 Sconfiggere il Cyberbulismo passa anche attraverso la conoscenza e una <a href="https://www.bullismoonline.it/cosa-bullismo-online-idra-2-0/">corretta Educazione Digitale.</a>
