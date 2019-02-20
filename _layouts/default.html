@@ -112,7 +112,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-sm-6 text-center text-lg-left">
-                 Copyright © {{ site.time | date: "%Y" }} {{ site.name }}
+                 Copyright © {{ site.time | date: "%Y" }} {{ site.name }} | <a href="">GDPR policy</a>
             </div>
             <div class="col-md-6 col-sm-6 text-center text-lg-right">
                 <p>Developed by <a target="_blank" href="https://webjeda.com">webjeda</a></p>
@@ -140,6 +140,9 @@
 
 <script src="{{ site.baseurl }}/assets/js/mediumish.js"></script>
 
+{% if page.path contains _posts %}
 <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
+{% endif %}
+
 </body>
 </html>

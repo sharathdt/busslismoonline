@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mediumish Template for Jekyll
-comments: true
+comments: false
 permalink: /about/
 ---
 
