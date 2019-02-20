@@ -4,23 +4,7 @@ title: Cookie Policy
 date: 2015-05-29T20:19:47+00:00
 author: Dr Ivan Ferrero
 layout: page
-guid: http://www.bullismoonline.it/?page_id=326
-friskamax_page_subtitle:
-  - ""
-friskamax_archive_category:
-  - "0"
-warta_full_width_carousel_enable:
-  - "0"
-warta_full_width_carousel_options:
-  - 'a:14:{s:5:"title";s:9:"New title";s:4:"data";s:6:"latest";s:4:"sort";s:8:"comments";s:10:"time_range";s:3:"all";s:8:"category";i:2;s:4:"tags";s:0:"";s:8:"post_ids";s:0:"";s:5:"count";i:4;s:7:"excerpt";i:320;s:8:"interval";i:8000;s:9:"animation";s:5:"slide";s:15:"animation_speed";i:2000;s:13:"ignore_sticky";i:1;s:11:"hide_mobile";i:0;}'
-friskamax_page_title_bg:
-  - "0"
-friskamax_page_title_op:
-  - upload
-friskamax_sidebar:
-  - ""
-fsmpb_main:
-  - ""
+permalink: /cookie-policy/
 ---
 <h2>Informativa estesa sui Cookie</h2>
 I Cookie sono costituiti da porzioni di codice installate all'interno del browser che assistono il Titolare nell’erogazione del servizio in base alle finalità descritte. Alcune delle finalità di installazione dei Cookie potrebbero, inoltre, necessitare del consenso dell'Utente.
