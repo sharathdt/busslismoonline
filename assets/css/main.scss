@@ -3,6 +3,24 @@
 # Change this file for any custom CSS.
 ---
 
+// Width of the content area
+$content-width:    800px;
+$on-palm:          600px;
+$on-laptop:        800px;
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
 /* We need to add display:inline in order to align the '>>' of the 'read more' link */
 .post-excerpt p {
 	display:inline;
@@ -10,5 +28,6 @@
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-	"syntax"
+	"syntax",
+	"custom"
 ;

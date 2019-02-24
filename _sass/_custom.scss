@@ -1,0 +1,6 @@
+.phone-only {
+  display: none !important;
+  @include media-query($on-palm) {
+    display: inline-block !important;
+  }
+}
