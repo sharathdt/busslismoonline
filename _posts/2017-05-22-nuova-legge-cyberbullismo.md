@@ -2,7 +2,7 @@
 id: 541
 title: La nuova legge sul Cyberbullismo
 date: 2017-05-22T21:39:39+00:00
-author: Dr Ivan Ferrero
+author: Alessia Sorgato
 layout: post
 guid: http://www.bullismoonline.it/?p=541
 permalink: /nuova-legge-cyberbullismo/
