@@ -43,7 +43,7 @@ authors:
     facebook: https://www.facebook.com/ivanferreropsicologo
     description: "CyberPsychologist at New Media Psychologist - Teenagers and New Media"
 
-Mariarosaria Imbimbo:
+  Mariarosaria Imbimbo:
     name: Mariarosaria Imbimbo
     display_name: Mariarosaria Imbimbo
     gravatar: /assets/images/Ivan-Ferrero-Avatar.jpg
@@ -53,7 +53,7 @@ Mariarosaria Imbimbo:
     facebook: https://www.facebook.com/ivanferreropsicologo
     description: "CyberPsychologist at New Media Psychologist - Teenagers and New Media"
 
-Alessia Sorgato:
+  Alessia Sorgato:
     name: Alessia Sorgato
     display_name: Alessia Sorgato
     gravatar: /assets/images/Ivan-Ferrero-Avatar.jpg
@@ -62,8 +62,6 @@ Alessia Sorgato:
     twitter: https://twitter.com/IvanPsy
     facebook: https://www.facebook.com/ivanferreropsicologo
     description: "CyberPsychologist at New Media Psychologist - Teenagers and New Media"
-
-
 
   john:
     name: John
