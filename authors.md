@@ -11,5 +11,7 @@ permalink: /authors/
 {% for item in group.items %}
 <li><a href="{{item.url}}">{{item.title}}</a></li>
 {% endfor %}
+<br>
+<br>
 {% endfor %}
 </div>
