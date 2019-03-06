@@ -26,7 +26,7 @@ authors:
   Dr Ivan Ferrero:
     name: Ivan Ferrero
     display_name: Dr Ivan Ferrero
-    gravatar: /assets/images/Ivan-Ferrero-Avatar.jpg
+    gravatar: /assets/images/Ivan-Ferrero.jpg
     email: ivanferrero1975@outlook.com
     web: www.bullismoonline.it
     twitter: https://twitter.com/IvanPsy
@@ -36,32 +36,32 @@ authors:
   Alessandra Fabriani:
     name: Alessandra Fabriani
     display_name: Alessandra Fabriani
-    gravatar: /assets/images/Ivan-Ferrero-Avatar.jpg
-    email: ivanferrero1975@outlook.com
-    web: www.bullismoonline.it
-    twitter: https://twitter.com/IvanPsy
-    facebook: https://www.facebook.com/ivanferreropsicologo
-    description: "CyberPsychologist at New Media Psychologist - Teenagers and New Media"
+    gravatar: /assets/images/Alessandra-Fabriani.jpg
+    email:
+    web:
+    twitter:
+    facebook:
+    description: "Neuropsicomotricista"
 
   Mariarosaria Imbimbo:
     name: Mariarosaria Imbimbo
     display_name: Mariarosaria Imbimbo
-    gravatar: /assets/images/Ivan-Ferrero-Avatar.jpg
-    email: ivanferrero1975@outlook.com
-    web: www.bullismoonline.it
-    twitter: https://twitter.com/IvanPsy
-    facebook: https://www.facebook.com/ivanferreropsicologo
-    description: "CyberPsychologist at New Media Psychologist - Teenagers and New Media"
+    gravatar: /assets/images/Mariarosaria-Imbimbo.jpg
+    email:
+    web:
+    twitter:
+    facebook:
+    description: "Psicologa Psicoterapeuta"
 
   Alessia Sorgato:
     name: Alessia Sorgato
     display_name: Alessia Sorgato
-    gravatar: /assets/images/Ivan-Ferrero-Avatar.jpg
-    email: ivanferrero1975@outlook.com
-    web: www.bullismoonline.it
-    twitter: https://twitter.com/IvanPsy
-    facebook: https://www.facebook.com/ivanferreropsicologo
-    description: "CyberPsychologist at New Media Psychologist - Teenagers and New Media"
+    gravatar: /assets/images/Alessia-Sorgato.jpg
+    email:
+    web:
+    twitter:
+    facebook:
+    description: "Avvocato Penalista Legale"
 
   john:
     name: John
