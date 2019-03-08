@@ -97,7 +97,7 @@ post_class: post-template
 ================================================== -->
 
 
-
+{% if site.disqus %}
 <!-- Begin Comments
 ================================================== -->
 {% if page.comments != false %}
@@ -111,3 +111,4 @@ post_class: post-template
 {% endif %}
 <!--End Comments
 ================================================== -->
+{% endif %}

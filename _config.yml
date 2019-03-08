@@ -8,7 +8,8 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 #baseurl: /busslismoonline
 google_analytics: 'UA-54137021-1'
-disqus: 'demowebsite'
+
+#disqus: 'SHORTCODE'
 
 email: ivanferrero1975@outlook.com #form entries will be sent here
 facebook: https://www.facebook.com/ivanferreropsicologo
