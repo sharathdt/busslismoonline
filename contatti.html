@@ -1,0 +1,41 @@
+---
+id: 326
+title: Contatti
+date: 2015-05-29T20:19:47+00:00
+author: Dr Ivan Ferrero
+layout: page
+permalink: /contatti/
+---
+
+<!-- form user info -->
+<div class="card card-outline-secondary">
+    <div class="card-header">
+        <h3 class="mb-0">Contact</h3>
+    </div>
+    <div class="card-body">
+        <form action="https://formspree.io/{{site.email}}" class="form" role="form" method="post">
+            <fieldset>
+                <label for="name2" class="mb-0">Name</label>
+                <div class="row mb-1">
+                    <div class="col-lg-12">
+                        <input type="text" name="name" id="name2" class="form-control" required="">
+                    </div>
+                </div>
+                <label for="email2" class="mb-0">Email</label>
+                <div class="row mb-1">
+                    <div class="col-lg-12">
+                        <input type="text" name="_replyto" id="email2" class="form-control" required="">
+                    </div>
+                </div>
+                <label for="message2" class="mb-0">Message</label>
+                <div class="row mb-1">
+                    <div class="col-lg-12">
+                        <textarea rows="6" name="message2" id="message2" class="form-control" required=""></textarea>
+                    </div>
+                </div>
+                <button type="submit" class="btn btn-success btn-lg float-right">Send Message</button>
+            </fieldset>
+        </form>
+    </div>
+</div>
+<!-- /form user info -->
