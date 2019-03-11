@@ -5,7 +5,18 @@
   }
 }
 
+.mediumnavigation .navbar-brand img {
+  max-height: 55px;
+  margin-right: 5px;
+  vertical-align: baseline;
+}
+
 .meta {
-  font-size: 0.85em;
+  font-size: 0.65em;
   color: #aaa;
+}
+
+.sitetitle {
+  font-size: 1.6rem;
+  letter-spacing: -0.5px;
 }
