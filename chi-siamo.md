@@ -26,13 +26,20 @@ Da molto tempo opero principalmente sul Web, attraverso servizi di Psicologia On
 
 I nostri autori
 
-Dr.ssa Daniela Zacchi.
+
+**Dr.ssa Daniela Zacchi**
+
 Il Mondo del sociale, e in particolare Infanzia e Adolescenza, hanno da sempre attirato la mia attenzione tanto che mi definisco <strong>Psicologa dei bambini e degli adolescenti</strong>.
 Mentre mi laureo in Psicologia (nel 2007) e mi specializzo in Mediazione familiare (nel 2011), amplio la mia conoscenza operando in diverse realtà educative e scolastiche. Entro così in contatto diretto con gli adolescenti e le dinamiche del gruppo dei pari, nella convinzione che<strong> i giovani abbiano bisogno di guide adulte con le quali rapportarsi e confrontarsi.</strong>
 Attualmente unisco il mio interesse per la Psicologia e il Mondo sociale attraverso la creazione di progetti di prevenzione primaria su tematiche come il <strong>cyberbullismo</strong>, la <strong>Devianza minorile</strong>, le <strong>Condotte a rischio</strong>, <strong>tematiche che si riscontrano in modo sempre più precoce nei giovani di oggi e rispetto alle quali è importante informare in modo corretto.</strong>
 Da diversi anni opero anche sul Web, cercando di diffondere e promuovere una corretta Cultura psicologica, attraverso l'uso dei social network, scrivendo articoli e promuovendo una serie di iniziative di sensibilizzazione rispetto agli argomenti di mio interesse.
 
-Dr.ssa Mariarosaria Imbimbo.
+---
+
+![](/assets/images/Mariarosaria-Imbimbo.jpg){: .rounded-circle}
+
+**Dr.ssa Mariarosaria Imbimbo**
+
 Da operatrice di frontiera nel mondo del sociale, in particolare le dipendenze e il disagio dei minori, a <strong>Psicologa di frontiera</strong>: le nuove frontiere che ha spalancato il web.
 Prima ancora di laurearmi in Psicologia (nel 2012) decido di entrare in <strong>con-tatto</strong> con diverse e complesse realtà, convinta che questo fosse <strong>l'unico modo per comprendere ed accogliere l'altro.
 In questi anni ho sviluppato sia una forte predisposizione ed attenzione alla gestione delle emozioni, sia un particolare interesse per l'influenza del mondo virtuale sulla formazione dell'identità.
@@ -40,7 +47,12 @@ Attualmente unisco il mio interesse per la Psicologia, i Giovani e le Dipendenze
 Per questo, tali progetti sono diversificati in base ai destinatari, ma hanno una matrice comune: fornire una chiara e corretta informazione, al fine di ridurre i rischi per l'insorgenza delle suddette problematiche.
 Da diverso tempo opero anche sul Web, con l'intento di promuovere il BenEssere Psicologico e sensibilizzare la popolazione in merito alle problematiche di mio interesse, attraverso l'uso dei social network e scrivendo articoli.
 
-Avv. Alessia Sorgato.
+---
+
+![](/assets/images/Alessia-Sorgato.jpg){: .rounded-circle}
+
+**Avv. Alessia Sorgato**
+
 Avvocato cassazionista si è sempre occupata di processo penale.
 Da sette anni è specializzata in difesa di donne e minori.
 Ha scritto otto volumi giuridici.
@@ -50,7 +62,12 @@ Ha fondato con altri l'associazione Amici della Casa dei Diritti del Comune di M
 
 Gestisce <a href="http://sorgato.it" target="_blank" rel="nofollow noopener noreferrer">il suo sito personale</a> e <a href="https://www.facebook.com/Donnecheimparanoadifendersi/" target="_blank" rel="nofollow noopener noreferrer">la sua pagina Facebook</a>, in cui svolge la sua opera di divulgazione contro la violenza sulle donne.
 
-Alessandra Fabriani.
+---
+
+![](/assets/images/Alessandra-Fabriani.jpg){: .rounded-circle}
+
+**Alessandra Fabriani**
+
 Alessandra Fabriani è una <strong>Terapista della neuropsicomotricità dell’Età Evolutiva</strong>, anche chiamati Neuropsicomotricisti.
 Si occupa dal 2007 della <strong>valutazione e del trattamento delle difficoltà e dei disturbi dell’età evolutiva</strong> che riguardano l’aspetto motorio, prassico, visuo-percettivo, comportamentale e relazionale in ambito neuropsichiatrico infantile.
 Ha collaborato in questi anni con diversi centri di riabilitazioni, e da qualche anno svolge attività privata in equipe.
