@@ -26,6 +26,7 @@ Da molto tempo opero principalmente sul Web, attraverso servizi di Psicologia On
 
 I nostri autori
 
+![](/assets/images/Daniela-Zacchi.jpg){: .rounded-circle}
 
 **Dr.ssa Daniela Zacchi**
 
