@@ -16,6 +16,8 @@ Il Cyberbullismo è un fenomeno di Rete, per cui è necessario fare Rete se vogl
 Se desideri aiutarci allora scorri in fondo a questa pagina per capire come.
 Anche l'invio di una tua tesi di laura o la scrittura di un articolo può fare un'enorme differenza.
 
+![](/assets/images/Ivan-Ferrero-white-square.jpg){: .rounded-circle}
+
 Il Direttore Tecnico e Scientifico Dr Ivan Ferrero.
 Psicologo delle Nuove Tecnologie.
 Le Nuove Tecnologie nella testa e la Psicologia nel cuore amo definirmi uno <strong>Psicologo Digitale.</strong>
