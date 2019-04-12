@@ -2,6 +2,7 @@
 # buxec jekyll serve --watch --limit_posts 0
 # https://sharathdt.github.io/busslismoonline/
 name: "BullismoOnline"
+url: https://bullismoonline.it
 description: "Jekyll Template for Blogging"
 meta_description: "Jekyll template, Medium styled, free for bloggers."
 logo: 'assets/images/logo.png'
