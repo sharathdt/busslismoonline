@@ -49,7 +49,7 @@ Comunque ci provo: sono un social media manager, un digital strategist, un grafi
 Potete acquistare il libro direttamente cliccando sull'immagine qui sotto: si tratta di un link di affiliazione, per cui ad ogni acquisto effettuato attraverso questo click la Amazon riconoscerà a noi una piccola percentuale: a voi non costa nulla di più, per noi un grande contributo che ci aiuta a sostenere le spese di gestione di questo portale.
 
 <h1 style="text-align: center;">Acquistalo ora su Amazon: clicca sull'immagine</h1>
-<img class="aligncenter wp-image-790 size-thumbnail" src="https://www.bullismoonline.it/wp-content/uploads/2017/10/down-arrow-green-2304007_redux-95x75.png" alt="down-arrow-green-2304007_redux" width="95" height="75" />
+<img class="aligncenter wp-image-790 size-thumbnail" src="/wp-content/uploads/2017/10/down-arrow-green-2304007_redux-95x75.png" alt="down-arrow-green-2304007_redux" width="95" height="75" />
 
 <a href="https://www.amazon.it/gp/product/8873077676/ref=as_li_tl?ie=UTF8&amp;camp=3414&amp;creative=21718&amp;creativeASIN=8873077676&amp;linkCode=as2&amp;tag=ivanpsy06-21&amp;linkId=5d42daa6ca925dd6f189c2c6c68ce318"><img class="aligncenter wp-image-843 size-large" src="/wp-content/uploads/2017/11/Cyberbulli-al-tappeto-730x932.jpg" alt="Cyberbulli al tappeto" width="730" height="932" /></a>
 
