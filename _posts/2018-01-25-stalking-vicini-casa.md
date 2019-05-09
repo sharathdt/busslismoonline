@@ -4,7 +4,7 @@ title: Dal Cyberbullismo al Cyberstalking allo Stalking
 date: 2018-01-25T14:41:04+00:00
 author: Dr Ivan Ferrero
 layout: post
-guid: https://www.bullismoonline.it/?p=893
+guid: /?p=893
 permalink: /stalking-vicini-casa/
 image: /wp-content/uploads/2018/01/stalking-man.jpg
 categories:
@@ -23,14 +23,14 @@ E mentre nel nostro immaginario collettivo un atto di stalking viene associato a
 
 In che cosa consiste? E perchè è così importante parlarne?
 
-Ce ne parla Maria Clausi, per la quale abbiamo già avuto il piacere di recensire <strong>il suo <a href="https://www.bullismoonline.it/bullismo-tessuto-sociale-maria-clausi/">libro "L'escluso"</a>.</strong>
+Ce ne parla Maria Clausi, per la quale abbiamo già avuto il piacere di recensire <strong>il suo <a href="/bullismo-tessuto-sociale-maria-clausi/">libro "L'escluso"</a>.</strong>
 
 Cediamo quindi volentieri la parola a Maria Clausi...
 
 Il termine stalking, che è una parola inglese, letteralmente significa camminare furtivamente.
 Nel tempo ha assunto il significato di persecuzione perché lo stalking è una vera e propria persecuzione, un assedio.
 
-<img class="aligncenter size-full wp-image-900" src="https://www.bullismoonline.it/wp-content/uploads/2018/01/stalking-man.jpg" alt="Stalking man" width="2400" height="1350" />
+<img class="aligncenter size-full wp-image-900" src="/wp-content/uploads/2018/01/stalking-man.jpg" alt="Stalking man" width="2400" height="1350" />
 <h2>Ma in concreto in cosa si sostanzia lo stalking?</h2>
 Esso è costituito da una serie di comportamenti che per la frequenza e la intensità con cui vengono messi in atto influenzano profondamente la vita della vittima perché la inducono a <strong>mutare le sue abitudini e le generano ansia, paure e preoccupazioni.</strong>
 
@@ -58,7 +58,7 @@ Come si attua la persecuzione ad opera del vicino di casa? Anche egli mette in a
 
 Tali comportamenti possono consistere in semplici dispetti o sostanziarsi in veri e propri reati.
 
-<img class="aligncenter size-full wp-image-901" src="https://www.bullismoonline.it/wp-content/uploads/2018/01/stalking-vicinato.jpg" alt="Stalking vicinato" width="4500" height="3000" />
+<img class="aligncenter size-full wp-image-901" src="/wp-content/uploads/2018/01/stalking-vicinato.jpg" alt="Stalking vicinato" width="4500" height="3000" />
 <h2>Quali sono i principali comportamenti di questo tipo di stalker?</h2>
 Se ne possono elencare alcuni che sono i più abituali:
 <ul>

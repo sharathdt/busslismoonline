@@ -4,7 +4,7 @@ title: 'Sicuri in Rete: un manuale di difesa per i Genitori'
 date: 2018-07-17T17:18:38+00:00
 author: Dr Ivan Ferrero
 layout: post
-guid: https://www.bullismoonline.it/?p=972
+guid: /?p=972
 permalink: /sicuri-rete-manuale-difesa-genitori/
 image: /wp-content/uploads/2018/07/Sicuri-in-Rete.jpeg
 categories:
@@ -16,7 +16,7 @@ tags:
   - libri sul cyberbullismo
   - sicurezza in rete
 ---
-Prevenire i rischi legati a un uso scorretto della Rete come Cyberbullismo e Dipendenza da Internet è possibile, noi di Bullismo Online lo ripeteremo sempre, a patto <a href="https://www.bullismoonline.it/viralita-adolescenti-condivisioni-emozioni/">che si conosca il Mondo Digitale dei nostri figli</a>.
+Prevenire i rischi legati a un uso scorretto della Rete come Cyberbullismo e Dipendenza da Internet è possibile, noi di Bullismo Online lo ripeteremo sempre, a patto <a href="/viralita-adolescenti-condivisioni-emozioni/">che si conosca il Mondo Digitale dei nostri figli</a>.
 Non solamente che cosa gli adolescenti cercano nei loro smartphone, ma anche e soprattutto perchè e come li utilizzano.
 Proprio per questo motivo è con gioia che vi presento <a href="https://www.maurozenda.net" target="_blank" rel="nofollow noopener">Mauro Ozenda</a> e <a href="http://www.bissolotti.net" target="_blank" rel="nofollow noopener">Laura Bissolotti</a>, autori del libro <a href="http://www.sicurinrete.com"><strong>Sicuri in Rete</strong></a>, edito da Hoepli e che potete <a href="https://www.amazon.it/gp/product/8820348780/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=ivanpsy06-21&amp;creative=21718&amp;linkCode=as2&amp;creativeASIN=8820348780&amp;linkId=45f86bc72321e491505e4d48ccaa4b54"><strong>acquistare direttamente QUI.</strong></a>
 <h1><strong>Ciao Mauro e Laura, iniziamo con la domanda di rito: chi siete, cosa fate nella vita?</strong></h1>
@@ -83,9 +83,9 @@ Anche se datato (pubblicazione 2012) contiene concetti validi sempre.
 
 Potete acquistare il libro direttamente cliccando sull'immagine qui sotto: si tratta di un link di affiliazione, per cui ad ogni acquisto effettuato attraverso questo click la Amazon riconoscerà a noi una piccola percentuale: a voi non costa nulla di più, per noi un grande contributo che ci aiuta a sostenere le spese di gestione di questo portale.
 <h1 style="text-align: center;">Acquistalo ora su Amazon: clicca sull'immagine</h1>
-<img class="aligncenter wp-image-790 size-thumbnail" src="https://www.bullismoonline.it/wp-content/uploads/2017/10/down-arrow-green-2304007_redux-95x75.png" alt="down-arrow-green-2304007_redux" width="95" height="75" />
+<img class="aligncenter wp-image-790 size-thumbnail" src="/wp-content/uploads/2017/10/down-arrow-green-2304007_redux-95x75.png" alt="down-arrow-green-2304007_redux" width="95" height="75" />
 
-<a href="https://www.amazon.it/gp/product/8820348780/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=ivanpsy06-21&amp;creative=21718&amp;linkCode=as2&amp;creativeASIN=8820348780&amp;linkId=45f86bc72321e491505e4d48ccaa4b54"><img class="aligncenter wp-image-974 size-full" src="https://www.bullismoonline.it/wp-content/uploads/2018/07/Sicuri-in-Rete.jpeg" alt="Sicuri in Rete Libro" width="660" height="1000" /></a>
+<a href="https://www.amazon.it/gp/product/8820348780/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=ivanpsy06-21&amp;creative=21718&amp;linkCode=as2&amp;creativeASIN=8820348780&amp;linkId=45f86bc72321e491505e4d48ccaa4b54"><img class="aligncenter wp-image-974 size-full" src="/wp-content/uploads/2018/07/Sicuri-in-Rete.jpeg" alt="Sicuri in Rete Libro" width="660" height="1000" /></a>
 
-<img class="aligncenter wp-image-789 size-thumbnail" src="https://www.bullismoonline.it/wp-content/uploads/2017/10/up-arrow-green-2304007_redux-95x75.png" alt="up-arrow-green-2304007_redux" width="95" height="75" />
+<img class="aligncenter wp-image-789 size-thumbnail" src="/wp-content/uploads/2017/10/up-arrow-green-2304007_redux-95x75.png" alt="up-arrow-green-2304007_redux" width="95" height="75" />
 <h1 style="text-align: center;">Acquistalo su Amazon! Clicca sull'immagine!</h1>

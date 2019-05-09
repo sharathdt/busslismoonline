@@ -4,7 +4,7 @@ title: È diventato Virale! Le emozioni dietro le condivisioni
 date: 2018-03-18T11:14:25+00:00
 author: Dr Ivan Ferrero
 layout: post
-guid: https://www.bullismoonline.it/?p=922
+guid: /?p=922
 permalink: /viralita-adolescenti-condivisioni-emozioni/
 image: /wp-content/uploads/2018/03/Fiore-di-Plutchik.png
 categories:
@@ -17,7 +17,7 @@ tags:
   - fiore di Plutchik
 ---
 <p lang="en-US">Il Cyberbullismo si avvale delle caratteristiche del Web per esprimere tutta la sua efficacia.
-Tra queste, una caratteristica fondamentale è la <a href="https://www.bullismoonline.it/cosa-bullismo-online-idra-2-0/">capacità di rendere virale un post</a>: dal momento che il principale obiettivo di un atto di Cyberbullismo è l'umiliazione psicologica della vittima, è necessario che il post pubblicato diventi il più virale possibile.
+Tra queste, una caratteristica fondamentale è la <a href="/cosa-bullismo-online-idra-2-0/">capacità di rendere virale un post</a>: dal momento che il principale obiettivo di un atto di Cyberbullismo è l'umiliazione psicologica della vittima, è necessario che il post pubblicato diventi il più virale possibile.
 Se questa diffusione non avviene, l'atto di Cyberbullismo è un flop.</p>
 <p lang="en-US">Ma quali sono le caratteristiche che rendono un post condiviso sui social network virale?</p>
 <p lang="en-US">Lo abbiamo chiesto a Christian Forgione, <a href="https://www.christianforgione.com">consulente web marketing</a>. Ho scelto lui perchè mi ha colpito il suo mood totalmente digital, un padre che, vedendo crescere il suo bambino di 4 anni circondato da nuove tecnologie, ha scelto d’impegnarsi a migliorare la cultura digitale non solo delle aziende clienti ma di tutti quegli adulti che vogliono caprine di più di questi “nuovi” strumenti. Nella sua vita professionale tiene corsi in aula e in azienda su queste tematiche.</p>
@@ -34,15 +34,15 @@ La viralità di un messaggio non è cosa del tutto nuova, ma i mezzi di comunica
 
 Inoltre, nonostante la diffusione potesse intaccare la reputazione soprattutto dei personaggi pubblici, prima del web non esistevano mezzi che permettessero a migliaia di persone in contemporanea, da ogni parte del mondo, di riversare in tempo reale tutto il proprio odio andando a ricercare un contatto diretto con la persona messa alla berlina. Il progetto <a href="http://usnewsmap.com/" target="_blank" rel="nofollow noopener">US NewsMap</a> studia proprio il fenomeno della viralità prima di internet.
 
-<img class="aligncenter size-full wp-image-924" src="https://www.bullismoonline.it/wp-content/uploads/2018/03/US-NewsMap-war-keyword.gif" alt="US NewsMap war keyword" width="600" height="339" />
+<img class="aligncenter size-full wp-image-924" src="/wp-content/uploads/2018/03/US-NewsMap-war-keyword.gif" alt="US NewsMap war keyword" width="600" height="339" />
 
 Uno degli ultimi casi di propagazione di un messaggio in modo rapido e massiccio è stato quello che ha visto protagonista la <span style="text-decoration: underline;">direttrice di una piccola filiale di Banca Intesa</span> e gli altri dipendenti, diventato virale, appunto, in pochissimo tempo.
 
 Il video, girato per un contest interno, non era pensato per circolare al di fuori delle varie sedi aziendali, è un filmato artigianale nel quale i dipendenti di ogni filiale si sfidano nel presentare con creatività la propria sede.
 
 <a href="http://www.repubblica.it/tecnologia/social-network/2017/10/04/news/_io_ci_sto_ci_metto_la_faccia_cosi_il_video_interno_di_banca_intesa_e_diventato_virale-177369206/">Evaso dai confini aziendali</a>, però, il filmato è diventato virale e ha scatenato il web con una ondata di cyberbullismo riversatasi in particolar modo sulla direttrice della filiale, tanto da spingerla a rendere invisibile nelle ricerche il proprio profilo Facebook per arginare i commenti e le derisioni delle migliaia di persone che hanno scelto di prenderla di mira in modo diretto.
-<p style="text-align: center;"><img class="aligncenter size-large wp-image-927" src="https://www.bullismoonline.it/wp-content/uploads/2018/03/Banca-Intesa-Sanpaolo-video-virale-01-730x396.png" alt="Banca Intesa Sanpaolo video virale 01" width="730" height="396" />(Fonte: <a href="https://www.ilmessaggero.it/primopiano/cronaca/intesa_sanpaolo_castiglione_delle_stiviere-3282445.html">Il video virale della direttrice di banca che scatena gli odiatori del web</a>)</p>
-<img class="aligncenter size-large wp-image-928" src="https://www.bullismoonline.it/wp-content/uploads/2018/03/Banca-Intesa-Sanpaolo-video-virale-02-730x341.png" alt="Banca Intesa Sanpaolo video virale 02" width="730" height="341" />
+<p style="text-align: center;"><img class="aligncenter size-large wp-image-927" src="/wp-content/uploads/2018/03/Banca-Intesa-Sanpaolo-video-virale-01-730x396.png" alt="Banca Intesa Sanpaolo video virale 01" width="730" height="396" />(Fonte: <a href="https://www.ilmessaggero.it/primopiano/cronaca/intesa_sanpaolo_castiglione_delle_stiviere-3282445.html">Il video virale della direttrice di banca che scatena gli odiatori del web</a>)</p>
+<img class="aligncenter size-large wp-image-928" src="/wp-content/uploads/2018/03/Banca-Intesa-Sanpaolo-video-virale-02-730x341.png" alt="Banca Intesa Sanpaolo video virale 02" width="730" height="341" />
 <p style="text-align: center;">(Fonte: <a href="http://www.repubblica.it/tecnologia/social-network/2017/10/04/news/_io_ci_sto_ci_metto_la_faccia_cosi_il_video_interno_di_banca_intesa_e_diventato_virale-177369206/">Il video virale di Intesa Sanpaolo e la gogna senza senso dei social</a>)</p>
 Oppure, sicuramente ognuno di noi avrà visto qualche filmato fatto ad un amico o amica e non ha resistito a diffonderlo a sua volta.
 
@@ -58,7 +58,7 @@ Una tra le più celebri classificazioni delle emozioni è quella dello psicologo
 
 In quello che viene chiamato il <strong>fiore di Plutchick</strong>, le emozioni contrapposte sono rappresentate con colori più intensi al centro e più leggeri allontanandosi verso l’esterno, per rappresentare i diversi livelli di intensità delle emozioni.
 
-<img class="aligncenter size-large wp-image-930" src="https://www.bullismoonline.it/wp-content/uploads/2018/03/Fiore-di-Plutchik-730x731.png" alt="Fiore di Plutchik" width="730" height="731" />
+<img class="aligncenter size-large wp-image-930" src="/wp-content/uploads/2018/03/Fiore-di-Plutchik-730x731.png" alt="Fiore di Plutchik" width="730" height="731" />
 <p style="text-align: center;">(Fonte: <a href="https://en.wikiversity.org/wiki/Motivation_and_emotion/Book/2014/Plutchik%27s_wheel_of_emotions" target="_blank" rel="nofollow noopener">Motivation and emotion/Book/2014/Plutchik's wheel of emotions</a>)</p>
 <p lang="en-US">Tra i vari petali colorati troviamo dei petali bianchi, che rappresentano gli stati d’animo derivanti dall’incontro di una coppia di emozioni.</p>
 

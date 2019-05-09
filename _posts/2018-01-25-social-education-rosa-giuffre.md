@@ -5,7 +5,7 @@ date: 2018-01-25T15:25:31+00:00
 author: Dr Ivan Ferrero
 excerpt: "Quando si parla di Educazione Digitale l'associazione con i ragazzini che utilizzano i loro smartphone ci viene naturale. Ma avete mai considerato quanti adulti utilizzano questi dispositivi? Siamo davvero sicuri che, come adulti, sappiamo utilizzarli con consapevolezza?"
 layout: post
-guid: https://www.bullismoonline.it/?p=895
+guid: /?p=895
 permalink: /social-education-rosa-giuffre/
 image: /wp-content/uploads/2018/02/df60dabf-f67b-4452-a916-eb543f3eeb4b.jpg
 categories:
@@ -18,7 +18,7 @@ tags:
   - genitori digitali
   - Rosa Giuffrè
 ---
-Quando si parla di Educazione Digitale l'associazione con <a href="https://www.bullismoonline.it/cyberbullismo-convergenza-di-un-disagio/">i ragazzini che utilizzano i loro smartphone</a> ci viene naturale.
+Quando si parla di Educazione Digitale l'associazione con <a href="/cyberbullismo-convergenza-di-un-disagio/">i ragazzini che utilizzano i loro smartphone</a> ci viene naturale.
 Ma avete mai considerato quanti adulti utilizzano questi dispositivi?
 Siamo davvero sicuri che, come adulti, sappiamo utilizzarli con consapevolezza?
 
@@ -27,7 +27,7 @@ E' ponendomi queste domande che ho incrociato il nuovo libro di Rosa Giuffrè, e
 Allora ho chiesto direttamente a Rosa perché è importantissimo <strong>parlare anche di Educazione Sociale, oppure alla socialità in Rete,</strong> e in che modo il suo nuovo libro può aiutare noi adulti ad acquisire quella consapevolezza degli strumenti di comunicazione digitali che ci permetterà di comprendere meglio anche la vita digitale dei nostri ragazzi.
 
 Perché noi siamo l'esempio che i nostri ragazzi vivono tutti i giorni...
-<h2><img class="alignleft wp-image-906 size-medium" src="https://www.bullismoonline.it/wp-content/uploads/2018/02/df60dabf-f67b-4452-a916-eb543f3eeb4b-350x487.jpg" alt="Rosa Giuffrè autrice del libro Social Education" width="350" height="487" />Ciao Rosa, iniziamo con la domanda di rito: chi sei, cosa fai nella vita?</h2>
+<h2><img class="alignleft wp-image-906 size-medium" src="/wp-content/uploads/2018/02/df60dabf-f67b-4452-a916-eb543f3eeb4b-350x487.jpg" alt="Rosa Giuffrè autrice del libro Social Education" width="350" height="487" />Ciao Rosa, iniziamo con la domanda di rito: chi sei, cosa fai nella vita?</h2>
 Ciao Ivan, sono una Consulente per la Comunicazione Digitale, Autrice, Formatrice e Blogger. Mi occupo principalmente di accompagnare professionisti e imprenditori <a href="http://www.futurosemplice.net" target="_blank" rel="nofollow noopener">nel mondo digitale</a> per far acquisire consapevolezza e raggiungere obiettivi di comunicazione e business.
 
 Mi occupo di percorsi di formazione per aziende, associazioni; scrivo sui miei blog, per diversi portali, curo una rubrica su Millionaire, ho scritto due libri… insomma, diciamo che non mi annoio ;-)
@@ -38,7 +38,7 @@ Girando per fare formazione in aziende, istituti notavo che puntualmente venivo 
 
 Da qui l’idea e il progetto che nasce e si rivolge a coloro che ho definito <strong>‘Social- tardivi digitali’</strong> in quanto trovo che la definizione data nel 2001 da Prensky sia ormai per alcuni aspetti davvero superata visto che i social hanno rimescolato le carte in tavola.
 <h2>Il tuo libro potrebbe essere definito un vademecum per gli adulti che desiderano non solo comprendere meglio come si vive nella Rete, ma anche introiettare un modus vivendi basato sulla Netiquette adattata ai giorni nostri, ed essere quindi in grado di trasmettere questo buon vivere sui social media anche ai nostri figli. Perché hai scelto proprio questo approccio?</h2>
-Io credo che <a href="https://www.bullismoonline.it/relazionalita-digitale-tra-soddisfazioni-e-frustrazioni/"><strong>non esista ‘reale-virtuale’</strong> </a>e chi continua a fare ancora distinzione non ha davvero compreso questa grande rivoluzione. Esistono due ambienti ormai integrati, quello online e quello offline nei quali è necessario apprendere regole dettate dalle piattaforme, ma anche dal buon vivere civile.
+Io credo che <a href="/relazionalita-digitale-tra-soddisfazioni-e-frustrazioni/"><strong>non esista ‘reale-virtuale’</strong> </a>e chi continua a fare ancora distinzione non ha davvero compreso questa grande rivoluzione. Esistono due ambienti ormai integrati, quello online e quello offline nei quali è necessario apprendere regole dettate dalle piattaforme, ma anche dal buon vivere civile.
 
 La figura dell’adulto consapevole in qualsiasi società è fondamentale, se questa figura manca nell’ambiente digitale, ( e se chi lo abita al posto di comportarsi da adulto scimmiotta un comportamento adolescente…) i ragazzi a chi possono fare riferimento? Occuparsi dei propri figli che ‘urlano’ il loro desiderio di attenzioni in ogni modo attraverso i social come potrebbe essere possibile se non conosco nemmeno questo ambiente?
 <h2>Tra tutti i temi affrontati nel tuo libro mi ha colpito molto proprio il concetto di “Social Education” interpretato nel suo significato più profondo, ossia non solamente conoscenza degli strumenti tecnici e delle loro regole di utilizzo, ma anche quelle regole di vita sociali a cui facciamo molta attenzione nell’offline ma che spesso dimentichiamo nell’online. Quale suggerimento puoi dare ad un adulto che desidera approcciarsi ai suoi canali social con questo rinnovato punto di vista?</h2>
@@ -59,9 +59,9 @@ Saper guidare una macchina non corrisponde a conoscere le norme che regolamentan
 Ringraziando Rosa Giuffrè per la sua disponibilità, vi ricordo che potete acquistare il suo libro <strong>cliccando sull'immagine qui in basso.</strong>
 
 <h1 style="text-align: center;">Acquistalo ora su Amazon: clicca sull'immagine</h1>
-<img class="aligncenter size-thumbnail wp-image-790" src="https://www.bullismoonline.it/wp-content/uploads/2017/10/down-arrow-green-2304007_redux-95x75.png" alt="down-arrow-green-2304007_redux" width="95" height="75" />
+<img class="aligncenter size-thumbnail wp-image-790" src="/wp-content/uploads/2017/10/down-arrow-green-2304007_redux-95x75.png" alt="down-arrow-green-2304007_redux" width="95" height="75" />
 
-<a href="https://www.amazon.it/gp/product/8857907163/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=ivanpsy06-21&amp;creative=21718&amp;linkCode=as2&amp;creativeASIN=8857907163&amp;linkId=5d1841bc0893f9a37e8a79f810ebadfe"><img class="aligncenter wp-image-910 size-large" src="https://www.bullismoonline.it/wp-content/uploads/2018/01/social_education_book-730x1135.jpeg" alt="Social Education Libro" width="730" height="1135" /></a>
+<a href="https://www.amazon.it/gp/product/8857907163/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=ivanpsy06-21&amp;creative=21718&amp;linkCode=as2&amp;creativeASIN=8857907163&amp;linkId=5d1841bc0893f9a37e8a79f810ebadfe"><img class="aligncenter wp-image-910 size-large" src="/wp-content/uploads/2018/01/social_education_book-730x1135.jpeg" alt="Social Education Libro" width="730" height="1135" /></a>
 
-<img class="aligncenter size-thumbnail wp-image-789" src="https://www.bullismoonline.it/wp-content/uploads/2017/10/up-arrow-green-2304007_redux-95x75.png" alt="up-arrow-green-2304007_redux" width="95" height="75" />
+<img class="aligncenter size-thumbnail wp-image-789" src="/wp-content/uploads/2017/10/up-arrow-green-2304007_redux-95x75.png" alt="up-arrow-green-2304007_redux" width="95" height="75" />
 <h1 style="text-align: center;">Acquistalo su Amazon! Clicca sull'immagine!</h1>

@@ -4,7 +4,7 @@ title: 'Gli adolescenti e i talent show: possibilità concrete o realtà virtual
 date: 2017-10-18T15:17:26+00:00
 author: Alessandra Fabriani
 layout: post
-guid: https://www.bullismoonline.it/?p=799
+guid: /?p=799
 permalink: /adolescenti-talent-show-realta-virtuale/
 image: /wp-content/uploads/2017/10/effetti-televisione-redux.jpg
 categories:
@@ -18,7 +18,7 @@ tags:
 ---
 <b>X Factor</b><span style="font-weight: 400;"> è ormai alle porte. Il talent targato Sky sta per iniziare la sua fase calda e registra già solo per le audizioni più di </span><b>un milione di spettatori</b><span style="font-weight: 400;">. Considerato che parliamo di una pay per view (e già solo il fatto che anni fa dalla tv pubblica il format venne comprato da una tv a pagamento, diede la misura del successo dei talent), i numeri sono veramente da capogiro.</span>
 
-<a href="https://www.bullismoonline.it/generazione-multitasking-adolescenti-tra-tecnologia-ed-emozioni/"><span style="font-weight: 400;">Cosa succede ad un </span></a><b><a href="https://www.bullismoonline.it/generazione-multitasking-adolescenti-tra-tecnologia-ed-emozioni/">adolescente</a> che osserva questo genere di trasmissione</b><span style="font-weight: 400;">? Proviamo a fare insieme una riflessione che possa essere interessante, ma soprattutto utile.</span>
+<a href="/generazione-multitasking-adolescenti-tra-tecnologia-ed-emozioni/"><span style="font-weight: 400;">Cosa succede ad un </span></a><b><a href="/generazione-multitasking-adolescenti-tra-tecnologia-ed-emozioni/">adolescente</a> che osserva questo genere di trasmissione</b><span style="font-weight: 400;">? Proviamo a fare insieme una riflessione che possa essere interessante, ma soprattutto utile.</span>
 
 <span style="font-weight: 400;">Prima però, cerchiamo di capire qualcosa di più sul “fenomeno”.</span>
 <h2><b>Agli albori del talento e i 15 minuti di celebrità</b></h2>

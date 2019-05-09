@@ -4,7 +4,7 @@ title: 'Come un’Adolescente ha ricostruito la propria Autostima: la storia di 
 date: 2017-11-16T17:31:25+00:00
 author: Dr Ivan Ferrero
 layout: post
-guid: https://www.bullismoonline.it/?p=851
+guid: /?p=851
 permalink: /adolescente-autostima-marion/
 image: /wp-content/uploads/2017/11/Quando-manca-amore.jpg
 categories:
@@ -25,7 +25,7 @@ Lo abbiamo chiesto alla <strong>D.ssa Federica Maria Onganìa</strong>, Nobildon
 
 <h2>Ciao Federica Maria, iniziamo con la domanda di rito: chi sei, cosa fai nella vita?</h2>
 
-<img class="size-medium wp-image-864 alignleft" src="https://www.bullismoonline.it/wp-content/uploads/2017/11/Maria_Federica_Ongania_redux-350x467.png" alt="Maria Federica Ongania" width="350" height="467" />Sono nata nel 1957 a Perledo (Lecco) in Italia.
+<img class="size-medium wp-image-864 alignleft" src="/wp-content/uploads/2017/11/Maria_Federica_Ongania_redux-350x467.png" alt="Maria Federica Ongania" width="350" height="467" />Sono nata nel 1957 a Perledo (Lecco) in Italia.
 
 Sono una donna sensibile e intraprendente, amando l’arte nelle manifestazioni più alte, esprimo le emozioni cimentandomi come scrittrice, poetessa, pittrice, autrice di musiche e parole per una Casa Discografica.
 In passato ho esercitato la professione di ragioniera e, per passione, di giornalista.
@@ -66,10 +66,10 @@ Ringraziamo Federica Maria Onganìa per la Sua disponibilità, e vi ricordiamo c
 
 <h1 style="text-align: center;">Acquistalo ora su Amazon: clicca sull'immagine</h1>
 
-<img class="aligncenter size-thumbnail wp-image-790" src="https://www.bullismoonline.it/wp-content/uploads/2017/10/down-arrow-green-2304007_redux-95x75.png" alt="down-arrow-green-2304007_redux" width="95" height="75" />
+<img class="aligncenter size-thumbnail wp-image-790" src="/wp-content/uploads/2017/10/down-arrow-green-2304007_redux-95x75.png" alt="down-arrow-green-2304007_redux" width="95" height="75" />
 
-<a href="https://www.amazon.it/gp/product/8894164101/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;tag=ivanpsy06-21&amp;camp=3414&amp;creative=21718&amp;linkCode=as2&amp;creativeASIN=8894164101&amp;linkId=827b4ac8679f6f27a622b46fc71e004f" rel="https://www.amazon.it/gp/product/8894164101/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;tag=ivanpsy06-21&amp;camp=3414&amp;creative=21718&amp;linkCode=as2&amp;creativeASIN=8894164101&amp;linkId=827b4ac8679f6f27a622b46fc71e004f"><img class="aligncenter wp-image-866 size-large" src="https://www.bullismoonline.it/wp-content/uploads/2017/11/Quando-manca-amore-730x1016.jpg" alt="Quando manca amore" width="730" height="1016" /></a>
+<a href="https://www.amazon.it/gp/product/8894164101/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;tag=ivanpsy06-21&amp;camp=3414&amp;creative=21718&amp;linkCode=as2&amp;creativeASIN=8894164101&amp;linkId=827b4ac8679f6f27a622b46fc71e004f" rel="https://www.amazon.it/gp/product/8894164101/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;tag=ivanpsy06-21&amp;camp=3414&amp;creative=21718&amp;linkCode=as2&amp;creativeASIN=8894164101&amp;linkId=827b4ac8679f6f27a622b46fc71e004f"><img class="aligncenter wp-image-866 size-large" src="/wp-content/uploads/2017/11/Quando-manca-amore-730x1016.jpg" alt="Quando manca amore" width="730" height="1016" /></a>
 
-<img class="aligncenter size-thumbnail wp-image-789" src="https://www.bullismoonline.it/wp-content/uploads/2017/10/up-arrow-green-2304007_redux-95x75.png" alt="up-arrow-green-2304007_redux" width="95" height="75" />
+<img class="aligncenter size-thumbnail wp-image-789" src="/wp-content/uploads/2017/10/up-arrow-green-2304007_redux-95x75.png" alt="up-arrow-green-2304007_redux" width="95" height="75" />
 
 <h1 style="text-align: center;">Acquistalo su Amazon! Clicca sull'immagine!</h1>

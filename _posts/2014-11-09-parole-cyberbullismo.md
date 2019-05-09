@@ -40,7 +40,7 @@ Ask.fm
 serie di videogames in cui il giocatore impersona un combattente, che può essere un soldato, un guerriero, un personaggio appartenente ai corpi speciali dell'esercito, ecc... a seconda dell'episodio.
 Molto ricercato dai ragazzi per il suo grado di realismo, la sua trama e per la possibilità di giocare online in squadra contro altri giocatori.
 
-<a href="https://www.bullismoonline.it/clash-of-clans-rapporto-adolescenti/">Clash of Clans:</a>
+<a href="/clash-of-clans-rapporto-adolescenti/">Clash of Clans:</a>
 gioco strategico per smartphone ad ambientazione medioevale. Il gioco prevede anche numerosi funzioni sociali che attirano i ragazzi.
 
 Cracker
@@ -98,7 +98,7 @@ Come nel bullismo tradizionale, la vittima che riceve email o messaggi molesti, 
 La vittima subisce passivamente le molestie, o al massimo tenta, generalmente senza successo, di convincere il persecutore a porre fine alle aggressioni.
 Una forma particolare è il cyber sexual harassment, in cui la vittima riceve materiale sessuale o pornografico (video, foto, messaggi).
 
-<a title="Hikikomori Wikipedia" href="https://www.bullismoonline.it/hikikomori-quando-ladolescenza-diventa-isolamento-e-perdita-di-se-cose-e-cosa-fare/">Hikikomori:</a>
+<a title="Hikikomori Wikipedia" href="/hikikomori-quando-ladolescenza-diventa-isolamento-e-perdita-di-se-cose-e-cosa-fare/">Hikikomori:</a>
 una persona che si ritira progressivamente dai rapporti sociali e dal contatto diretto con il Mondo, fino a confinarsi nella propria stanza e gestire tutta la sua Vita da lì.
 Al giorno d'oggi sfruttano Internet per sopperire a queste mancanze, ad esempio socializzando sui forum, acquistando online ed in alcuni casi trovando forme di guadagnando online per cui non è necessario uscire dalla propria stanza.
 
