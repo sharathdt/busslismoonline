@@ -7,7 +7,7 @@ image: assets/images/Adolescente_libri.jpeg
 featured: true
 ---
 
-#I nostri ragazzi da consumatori passivi a consumatori attivi
+# I nostri ragazzi da consumatori passivi a consumatori attivi
 
 Non è vero che i nostri ragazzi guardano meno film o leggono di meno: semplicemente **si è evoluto il modo con il quale le nuove generazioni consumano questi tipi di contenuti.**
 
@@ -17,7 +17,7 @@ Ve ne parlo in questo video, tratto da un mio speech per l'evento Social Corner 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/trwZ5Se5OMw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##Il libro come contenitore privilegiato delle informazioni
+## Il libro come contenitore privilegiato delle informazioni
 
 Noi diretti discendenti del pre-Web e del pre-Digitale siamo abituati all'idea del libro cartaceo, un agglomerato di fogli con tante scritte e disegni, il tutto statico.
 
@@ -31,7 +31,7 @@ L'abitudine di secoli ci ha così abituati a questa operazione che era diventata
 Eppure, se ci ragioniamo, noi non cercavamo il libro per il libro in sè, ma **per le informazioni in esso contenute.**
 Quell'agglomerato di cellulosa è sempre stato solamente il canale, mentre le informazioni erano il contenuto.
 
-##Il Digitale e i nuovi contenitori delle informazioni
+## Il Digitale e i nuovi contenitori delle informazioni
 
 Poi è arrivato il Digitale e ha stravolto i nostri vecchi schemi mentali.
 
@@ -68,3 +68,6 @@ Non sono più obbligati a seguire un percorso deciso da altri, ma possono saltar
 
 Non solo: possono anche prelevare un contenuto, rimaneggiarlo e mettere la nuova produzione a disposizione del Mondo.
 Quindi non sono più solamente assorbitori di informazioni, ma partecipano attivamente alla produzione di senso delle informazioni, in un processo che diventa interattivo.
+
+Dr Ivan Ferrero
+Psicologo delle Nuove Tecnologie
