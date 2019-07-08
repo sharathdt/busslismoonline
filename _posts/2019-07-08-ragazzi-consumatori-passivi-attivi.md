@@ -62,6 +62,8 @@ Oppure (sorpresa!) potremmo scoprire che stanno cercando una definizione su Goog
 
 Insomma: potremmo scoprire che **i nostri ragazzi si informano e si formano esattamente con la stessa passione che avevamo noi,** solo lo stanno facendo in un Mondo in cui il libro non è più conditio sine qua non.
 
+## I nuovi palinsesti
+
 YouTube è il loro nuovo palinsesto televisivo e manuale di istruzioni, anche luogo di documentari.
 Instagram la loro guida di viaggi.
 WattPad la loro nuova biblioteca.
