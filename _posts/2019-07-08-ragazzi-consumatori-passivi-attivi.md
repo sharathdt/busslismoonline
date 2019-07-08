@@ -22,7 +22,11 @@ Ed è questo il punto: se veramente vogliamo capire il mondo in cui vivono i nos
 
 Ve ne parlo in questo video, tratto da un mio speech per l'evento Social Corner di Milano.
 
+Guardalo QUI:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/trwZ5Se5OMw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Ascoltalo QUI:
+<iframe src="https://anchor.fm/ivan-ferrero/embed/episodes/I-nostri-ragazzi-da-consumatori-passivi-a-consumatori-attivi-e3jjav" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 ## Il libro come contenitore privilegiato delle informazioni
 
