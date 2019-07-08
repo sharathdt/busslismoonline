@@ -1,9 +1,16 @@
 ---
 layout: post
+date: 2019-07-08T10:18:38+00:00
+permalink: /ragazzi-consumatori-passivi-attivi/
 title:  "I nostri ragazzi da consumatori passivi a consumatori attivi"
-author: Ivan Ferrero
-categories: [ educazione digitale, adolescenti e social media ]
+author: Dr Ivan Ferrero
 image: assets/images/Adolescente_libri.jpeg
+categories:
+  - Cyberbullismo ed Educazione Digitale per i Genitori
+  - Adolescenti e Social Media
+tags:
+  - social media per gli adolescenti
+  - Educazione digitale per adulti
 featured: true
 ---
 
