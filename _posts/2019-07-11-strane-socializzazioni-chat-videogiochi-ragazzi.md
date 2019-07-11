@@ -29,7 +29,7 @@ Guardalo QUI:
 Ascoltalo QUI:
 <iframe src="https://anchor.fm/ivan-ferrero/embed/episodes/Strane-socializzazioni-nelle-chat-dei-giochi-dei-nostri-ragazzi-e458nr" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-## Lo sviluppo della complessità dei videogiochi
+## Lo sviluppo della complessità dei videogiochi
 
 Ogni gioco per ragazzi che si rispetti deve prevedere una forma di chat, testuale o vocale, attraverso la quale possano coordinarsi nelle loro strategie.
 
