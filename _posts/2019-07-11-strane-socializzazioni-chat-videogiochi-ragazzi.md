@@ -24,10 +24,10 @@ Socializzano.
 In questo video spiego anche come, da gruppi di soli amici, i nostri ragazzi allargano man mano i loro orizzonti sociali, fino a lasciare entrare persone sconosciute.
 
 Guardalo QUI:
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NwFKzCLxL3Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Ascoltalo QUI:
-
+<iframe src="https://anchor.fm/ivan-ferrero/embed/episodes/Strane-socializzazioni-nelle-chat-dei-giochi-dei-nostri-ragazzi-e458nr" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 ## Lo sviluppo della complessità dei videogiochi
 
