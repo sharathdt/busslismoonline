@@ -21,11 +21,12 @@ Prosegue la mia analisi del mondo social dei nostri ragazzi.
 Qui vi parlo delle storie, un elemento fortemente desiderato da tutte le piattaforme social, gioie dei nostri ragazzi e dolori di noi adulti.
 
 Guardalo QUI:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tSDjDbSsMhY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Ascoltalo QUI:
+<iframe src="https://anchor.fm/ivan-ferrero/embed/episodes/Le-storie-perch-sono-cos-importanti-per-le-piattaforme-e-i-nostri-ragazzi-e3pktt" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-
-## Una lunga storia?
+## Una lunga storia?
 
 In principio era Snapchat, la messaggeria istantanea nata con la promessa che la tua foto o video sarebbe potuta essere riprodotta solamente una volta, per poi sparire totalmente dai dispositivi dei due comunicanti.
 
@@ -51,7 +52,7 @@ I nostri ragazzi preferiscono un tipo di comunicazione veloce, senza troppi pens
 
 L'idea di potere comunicare senza preoccuparsi dello stile e della grammatica, e di dare maggiore significato al messaggio utilizzando strumenti estremamente creativi quali gli stickers, le GIF, e altro, alletta le generazioni più giovani e non solo.
 
-### Il desiderio di raccontare la propria vita
+### Il desiderio di raccontare la propria vita
 
 Qualcuno lo definisce narcisismo, qualcun altro vanità.
 
@@ -63,7 +64,7 @@ Per molti è un modo per stare più vicini alle persone care, grazie anche all'e
 
 ## Perché le storie sono così importanti per le piattaforme social?
 
-### Hanno un enorme appeal sulle persone
+### Hanno un enorme appeal sulle persone
 
 Come già elencato sopra, le Stories piacciono alle persone, per cui le piattaforme fanno a gara per offrire anche questa forma di intrattenimento.
 
