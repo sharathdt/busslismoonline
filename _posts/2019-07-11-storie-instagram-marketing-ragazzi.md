@@ -2,7 +2,7 @@
 layout: post
 date: 2019-07-12T10:11:38+00:00
 permalink: /instagram-storie-adolescenti/
-title:  "Le storie: perché sono così importanti per le piattaforme social e per i nostri ragazzi"
+title:  "Le storie: perché sono così importanti per le piattaforme social e per i nostri ragazzi"
 author: Dr Ivan Ferrero
 image: assets/images/storytelling-storie.jpeg
 categories:
@@ -14,7 +14,7 @@ tags:
 featured: true
 ---
 
-# Le storie: perché sono così importanti per le piattaforme social, e perchè calamitano così tanto l’attenzione dei nostri ragazzi?
+# Le storie: perché sono così importanti per le piattaforme social, e perchè calamitano così tanto l’attenzione dei nostri ragazzi?
 
 Prosegue la mia analisi del mondo social dei nostri ragazzi.
 
