@@ -9,7 +9,6 @@ permalink: /cyberbulli-tappeto-libro-insegnare-figli-educazione-digitale/
 image: /wp-content/uploads/2017/11/Cyberbulli-al-tappeto.jpg
 categories:
   - Cyberbullismo ed Educazione Digitale per i Genitori
-  - Featured
   - Libri sul Cyberbullismo
 tags:
   - cyberbullismo bambini
