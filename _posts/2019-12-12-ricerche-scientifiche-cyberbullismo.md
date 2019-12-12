@@ -4,7 +4,7 @@ date: 2019-12-12T10:18:38+00:00
 permalink: /ricerche-scientifiche-cyberbullismo/
 title:  "Ricerche Scientifiche sul Cyberbullismo"
 author: Dr Ivan Ferrero
-image: assets/images/ragazzi-adolescenti-socializzazione-gruppo.jpeg
+image: assets/images/ricerche-scientifiche-cyberbullismo.jpeg
 categories:
   - Cyberbullismo ed Educazione Digitale per i Genitori
   - Adolescenti e Social Media
