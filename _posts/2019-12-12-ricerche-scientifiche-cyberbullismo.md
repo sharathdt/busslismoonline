@@ -95,6 +95,8 @@ Per ragioni di completezza di informazione non escludiamo nulla, per cui sta a v
 
 -[The Paradox Of Viral Outrage: Public Shaming Inspires Further Outrage — But Also Increases Sympathy For The Offender](http://bit.ly/38BpRaf)
 
+-[Processi socio-cognitivi individuali e di classe nel bullismo: uno studio multilivello longitudinale a breve termine](https://bullismoonline.it/processi-cognitivi-individuali-classe-bullismo/)
+
 ### Origine Morale del Cyberbullismo
 
 >Le nuove tecnologie e i recenti movimenti Sociali non stanno modificando solamente il nostro modo di vivere: stanno entrando nelle nostre Menti, nella nostra Psiche, modificando profondamente anche i nostri schemi mentali.
@@ -170,3 +172,5 @@ Per ragioni di completezza di informazione non escludiamo nulla, per cui sta a v
 -[Game - Youth For Love](https://www.youthforlove.eu/game/)
 
 -[Teramo dice No al Bullismo: flash mob sulle scalinate del Duomo](http://bit.ly/2sgMCj1)
+
+-[Gli studenti con un maggiore senso di appartenenza alla scuola hanno meno probabilità di diventare bulli](https://bullismoonline.it/studenti-appartenenza-scuola-no-bullismo/)
