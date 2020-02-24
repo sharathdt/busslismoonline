@@ -17,6 +17,7 @@ tags:
   - ricerche sccientifiche sul cyberbullismo
 featured: true
 ---
+
 # Gli speciali di BullismoOnline
 
 Cyberbullismo, dipendenza da Internet, sexting e revenge porn, ma non solo.
@@ -26,14 +27,14 @@ Sono questi gli argomenti di cui parliamo nei nostri speciali, episodi molto ver
 
 Vi ricordo che potete ascoltare e seguire gli episodi man mano che vengono pubblicati accedendo direttamente al podcast ai seguenti link:
 
-- Apple podcast: https://apple.co/2ThlEDm
-- Google podcast: http://bit.ly/2V9vyrp
-- Spotify: https://spoti.fi/2T0Lv0m
+- Apple podcast [https://apple.co/2ThlEDm](https://apple.co/2ThlEDm)
+- Google podcast: [http://bit.ly/2V9vyrp](http://bit.ly/2V9vyrp)
+- Spotify: [https://spoti.fi/2T0Lv0m](https://spoti.fi/2T0Lv0m)
 
-## Speciale Cyberbullismo
+### Speciale Cyberbullismo
 Che cos’è il Cyberbullismo, come origina come si propaga, prevenzione e intervento
 <iframe src="https://anchor.fm/ivan-ferrero/embed/episodes/SPECIALE-CYBERBULLISMO-Che-cos-il-Cyberbullismo--come-origina-come-si-propaga--prevenzione-e-intervento-ea4nfi" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-## Speciale Grooming
+### Speciale Grooming
 Il fenomeno dei Predatori Online e come difendere i nostri figli
 <iframe src="https://anchor.fm/ivan-ferrero/embed/episodes/SPECIALE-GROOMING---Il-fenomeno-dei-Predatori-Online-e-come-difendere-i-nostri-figli-ea4nat" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
