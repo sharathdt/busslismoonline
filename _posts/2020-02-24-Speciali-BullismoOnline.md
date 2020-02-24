@@ -25,7 +25,9 @@ Anche come i nostri figli usano il loro dispositivi elettronici, quali rischi co
 
 Sono questi gli argomenti di cui parliamo nei nostri speciali, episodi molto verticalizzato e che scendono in profondità di temi specifici.
 
-Vi ricordo che potete ascoltare e seguire gli episodi man mano che vengono pubblicati accedendo direttamente al podcast ai seguenti link:
+Potete ascoltare i singoli episodi cliccando sul play di ogni traccia.
+
+Vi ricordo che potete anche ascoltare e seguire gli episodi man mano che vengono pubblicati accedendo direttamente al podcast ai seguenti link:
 
 - [Apple podcast](https://apple.co/2ThlEDm)
 - [Google podcast](http://bit.ly/2V9vyrp)
