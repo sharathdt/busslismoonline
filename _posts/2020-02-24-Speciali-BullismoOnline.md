@@ -33,10 +33,10 @@ Vi ricordo che potete anche ascoltare e seguire gli episodi man mano che vengono
 - [Google podcast](http://bit.ly/2V9vyrp)
 - [Spotify](https://spoti.fi/2T0Lv0m)
 
-### Speciale Cyberbullismo
+### Speciale Cyberbullismo (1h 42m)
 Che cos'è il Cyberbullismo, come origina come si propaga, prevenzione e intervento
 <p><iframe src="https://anchor.fm/ivan-ferrero/embed/episodes/SPECIALE-CYBERBULLISMO-Che-cos-il-Cyberbullismo--come-origina-come-si-propaga--prevenzione-e-intervento-ea4nfi" width="400px" height="102px" frameborder="0" scrolling="no"></iframe></p>
 
-### Speciale Grooming
+### Speciale Grooming (1h 37m)
 Il fenomeno dei Predatori Online e come difendere i nostri figli
 <p><iframe src="https://anchor.fm/ivan-ferrero/embed/episodes/SPECIALE-GROOMING---Il-fenomeno-dei-Predatori-Online-e-come-difendere-i-nostri-figli-ea4nat" height="102px" width="400px" frameborder="0" scrolling="no"></iframe></p>
