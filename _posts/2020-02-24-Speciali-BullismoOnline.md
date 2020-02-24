@@ -23,7 +23,7 @@ featured: true
 Cyberbullismo, dipendenza da Internet, sexting e revenge porn, ma non solo.
 Anche come i nostri figli usano il loro dispositivi elettronici, quali rischi corrono online, e molto altro.
 
-Sono questi gli argomenti di cui parliamo nei nostri speciali, episodi molto verticalizzato e che scendono in profondità di temi specifici.
+Sono questi gli argomenti di cui parliamo nei nostri speciali, episodi molto verticalizzati e che scendono in profondità di temi specifici.
 
 Potete ascoltare i singoli episodi cliccando sul play di ogni traccia.
 
