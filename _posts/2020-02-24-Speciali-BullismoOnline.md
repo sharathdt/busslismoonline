@@ -18,15 +18,23 @@ tags:
 featured: true
 ---
 
-<!-- #######  YAY, I AM THE SOURCE EDITOR! #########-->
-<h1><strong>Gli speciali di BullismoOnline</strong></h1>
-<p>Cyberbullismo, dipendenza da Internet, sexting e revenge porn, ma non solo.<br />Anche come i nostri figli usano il loro dispositivi elettronici, quali rischi corrono online, e molto altro.</p>
-<p>Sono questi gli argomenti di cui parliamo nei nostri speciali, episodi molto verticalizzato e che scendono in profondit&agrave; di temi specifici.</p>
-<p>Vi ricordo che potete ascoltare e seguire gli episodi man mano che vengono pubblicati accedendo direttamente al podcast ai seguenti link:</p>
-<p>- <a title="Essere Genitori nell&rsquo;Era Digitale Apple Podcast" href="https://apple.co/2ThlEDm">Apple podcast</a><br />- <a title="Essere Genitori nell&rsquo;Era Digitale Google Podcast" href="http://bit.ly/2V9vyrp">Google podcast</a><br />- <a title="Essere Genitori nell&rsquo;Era Digitale Spotify" href="https://spoti.fi/2T0Lv0m">Spotify</a></p>
-<p><strong>Speciale Cyberbullismo</strong></p>
-<p>Che cos&rsquo;&egrave; il Cyberbullismo, come origina come si propaga, prevenzione e intervento</p>
+# Gli speciali di BullismoOnline
+
+Cyberbullismo, dipendenza da Internet, sexting e revenge porn, ma non solo.
+Anche come i nostri figli usano il loro dispositivi elettronici, quali rischi corrono online, e molto altro.
+
+Sono questi gli argomenti di cui parliamo nei nostri speciali, episodi molto verticalizzato e che scendono in profondità di temi specifici.
+
+Vi ricordo che potete ascoltare e seguire gli episodi man mano che vengono pubblicati accedendo direttamente al podcast ai seguenti link:
+
+- [Apple podcast](https://apple.co/2ThlEDm)
+- [Google podcast](http://bit.ly/2V9vyrp)
+- [Spotify](https://spoti.fi/2T0Lv0m)
+
+### Speciale Cyberbullismo
+Che cos'è il Cyberbullismo, come origina come si propaga, prevenzione e intervento
 <p><iframe src="https://anchor.fm/ivan-ferrero/embed/episodes/SPECIALE-CYBERBULLISMO-Che-cos-il-Cyberbullismo--come-origina-come-si-propaga--prevenzione-e-intervento-ea4nfi" width="400px" height="102px" frameborder="0" scrolling="no"></iframe></p>
-<p><strong>Speciale Grooming</strong></p>
-<p>Il fenomeno dei Predatori Online e come difendere i nostri figli</p> 
+
+### Speciale Grooming
+Il fenomeno dei Predatori Online e come difendere i nostri figli
 <p><iframe src="https://anchor.fm/ivan-ferrero/embed/episodes/SPECIALE-GROOMING---Il-fenomeno-dei-Predatori-Online-e-come-difendere-i-nostri-figli-ea4nat" height="102px" width="400px" frameborder="0" scrolling="no"></iframe></p>
