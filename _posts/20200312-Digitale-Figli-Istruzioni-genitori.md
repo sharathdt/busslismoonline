@@ -23,5 +23,3 @@ Noi vediamo i nostri figli trascorrere un'enormità di tempo sui loro cellulari,
 Inoltre il Digitale è parte integrante e integrata della loro vita, per cui non possiamo pensare di avere una vera relazione con loro se non comprendiamo anche questa (grossa) fetta della loro vita.
 
 In questa playlist trovate indicazioni e spiegazioni utili per comprendere meglio il Nuovo Mondo Digitale.
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL-MCF5XoqfWjiAtIHcXw7O9yja_50O1rr" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
