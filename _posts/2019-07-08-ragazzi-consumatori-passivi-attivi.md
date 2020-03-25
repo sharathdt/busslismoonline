@@ -11,7 +11,7 @@ categories:
 tags:
   - social media per gli adolescenti
   - Educazione digitale per adulti
-featured: true
+featured: false
 ---
 
 # I nostri ragazzi da consumatori passivi a consumatori attivi
