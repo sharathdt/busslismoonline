@@ -14,7 +14,7 @@ tags:
   - insulti alla boldrini
   - trolling
   - violenza sulle donne
-featured: true
+featured: false
 ---
 <h1>Il Trolling secondo la Boldrini e l'esempio da non imitare</h1>
 In occasione del 25 novembre, giornata mondiale contro la violenza sulle donne, la Presidente della Camera dei Deputati Boldrini, spesso bersagliata su Facebook da commenti decisamente offensivi, ha preso in mano la situazione, ha prelevato alcuni di questi commenti e <a href="https://www.facebook.com/325228170920721/photos/a.327578650685673.159708.325228170920721/1062878570489007">li ha ripubblicati sotto forma di screenshot con i nomi in chiaro</a>.
