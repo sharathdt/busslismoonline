@@ -13,7 +13,7 @@ tags:
   - Educazione digitale per adulti
   - socializzazione
   - adolescenti e videogames
-featured: true
+featured: false
 ---
 
 # Strane socializzazioni nelle chat dei giochi dei nostri ragazzi
