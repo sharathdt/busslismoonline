@@ -37,7 +37,7 @@ Per ragioni di completezza di informazione non escludiamo nulla, per cui sta a v
 
 >Sotto questo punto di vista si potrebbe parlare di coppia complementare: il bullo letteralmente sceglie la propria vittima, e la vittima a sua volta presenta delle caratteristiche (spesso caratteriali o di personalità) per le quali si fa scegliere dal bullo.
 
-### Origine Cognitiva, Neuroscientifica ed Emnozionale del Cyberbullismo
+### Origine Cognitiva, Neuroscientifica ed Emozionale del Cyberbullismo
 
 >Noi viviamo nelle nostre percezioni, e attraverso di esse costruiamo ciò che poi chiamiamo Realtà.
 
