@@ -55,7 +55,7 @@ Per ragioni di completezza di informazione non escludiamo nulla, per cui sta a v
 
 -[Under time pressure, people tell us what we want to hear](http://bit.ly/2En3t6B)
 
--[Study questions video games’ effects on violent behavior](http://bit.ly/36sIfzV)
+-[Videogiochi violenti: uno studio mette in discussione gli effetti sui giovani](https://bullismoonline.it/videogiochi-violenti-studio-dubbi/)
 
 -[Tell Me a Story: Socio-Emotional Functioning, Well-Being and Problematic Smartphone Use in Adolescents With Specific Learning Disabilities](http://bit.ly/2LNBuB8)
 
