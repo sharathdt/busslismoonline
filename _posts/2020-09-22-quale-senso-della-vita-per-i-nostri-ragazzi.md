@@ -16,7 +16,7 @@ tags:
 featured: false
 ---
 
-## Adolescenti e digitale, un binomio spesso portatore di disagio, malessere e confusione.
+## Adolescenti e digitale, un binomio spesso portatore di disagio, malessere e confusione.
 
 Se pensiamo a questo connubio ci vengono subito in mente fenomeni come il **Cyberbullismo, Revenge Porn, Dipendenza da Smartphone o da Internet.**
 
@@ -33,11 +33,11 @@ Quindi dobbiamo per un attimo fare un passo indietro e ragionare secondo un punt
 Per fare questo ne ho parlato con Maria Amantea, criminologa e ideatrice del [Progetto Io Valgo](www.progettoiovalgo.com), e insieme lei abbiamo ragionato come strutturare degli interventi educativi che aiutino i nostri ragazzi in tal senso.
 Ne sono derivate delle linee guida ben strutturate.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/w7qye_jiWwc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7qye_jiWwc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/7A7nz1sNSxWrsW6VjgiJBi" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-## La Rete e lo scambio necessari
+## La Rete e lo scambio necessari
 
 Nessun uomo è un’isola, e qualunque cosa accada a chiunque altro la campana suona sempre per te.
 Nei confronti dei nostri ragazzi non si fa eccezione.
@@ -50,14 +50,14 @@ Nessuno escluso.
 
 C’è quindi bisogno di una visione comunitaria delle parti, che qui assumono il tono della complementarietà, in un insieme che è molto più della semplice somma delle sue parti.
 
-## Riscoprire la comunità famigliare e il suo ruolo nell’educazione dei nostri ragazzi
+## Riscoprire la comunità famigliare e il suo ruolo nell’educazione dei nostri ragazzi
 
 In questa visione comunitaria la famiglia è principe in quanto primo luogo in cui il bambino sperimenta se stesso e le relazioni con gli altri e con il Mondo che lo circonda.
 E’ anche lo spazio, sia fisico che mentale e psichico, in cui il bambino sperimenta i propri moti interiori.
 
 I genitori quindi non sono esclusi da questo quadro, anzi acquisiscono una rinnovata importanza.
 
-## Riconoscere nei nostri ragazzi le molte fragilità, ma anche la tantissima forza
+## Riconoscere nei nostri ragazzi le molte fragilità, ma anche la tantissima forza
 
 Questo è un elemento molto importante, perchè spesso tendiamo a percepire i nostri ragazzi come dei bambini un po’ più cresciuti.
 
@@ -72,7 +72,7 @@ Numerose ricerche dimostrano che più un ragazzo si sente partecipe (cittadino) 
 
 Questo inizia dall’ambiente domestico, ma presto si estende all’ambiente al di fuori delle mura di casa e comprende la Società tutta.
 
-La domanda qui è: 	questa Società è in grado di accogliere questo desiderio e bisogno di partecipazione, che si traduce in cittadinanza attiva?
+La domanda qui è:	questa Società è in grado di accogliere questo desiderio e bisogno di partecipazione, che si traduce in cittadinanza attiva?
 
 Quanto spazio la nostra Società da alla voce delle nuove generazioni?
 
@@ -85,7 +85,7 @@ E nella vita degli adolescenti la Scuola costituisce il luogo della sperimentazi
 
 Ma affinché questo avvenga è necessaria un’ulteriore condizione…
 
-## La Società che vede i nostri ragazzi
+## La Società che vede i nostri ragazzi
 
 Affinché le nuove generazioni possano sentirsi cittadini attivi dell’ambiente in cui vivono, è necessario che quest’ultimo sia in grado di vederli.
 
@@ -115,7 +115,7 @@ Quindi ogni loro comportamento, che sia esso socialmente approvabile oppure devi
 Quale ambiente stiamo lascando alle nuove generazioni?
 Quali risposte adattive genera in loro affinché essi possano sopravvivere?
 
-## Dobbiamo tornare ad umanizzare le nostre vite
+## Dobbiamo tornare ad umanizzare le nostre vite
 
 Al centro dei comportamenti dei nostri ragazzi quindi non ci sono loro, ma ci siamo noi adulti, con tutte le nostre debolezze, i nostri tentativi e i nostri errori.
 
