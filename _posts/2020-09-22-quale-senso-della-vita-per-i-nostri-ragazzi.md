@@ -26,7 +26,7 @@ Da qui la domanda necessaria: come possiamo aiutare i nostri ragazzi a scegliere
 
 Il concetto di tutto è sintetizzabile da una frase della D.ssa Lorena Quaranta:
 
-> Bisogna dimostrare responsabilità e amore per la Vita.
+> Bisogna dimostrare responsabilità e amore per la Vita
 
 Quindi dobbiamo per un attimo fare un passo indietro e ragionare secondo un punto di vista che vada al di là del digitale.
 
